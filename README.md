@@ -5,11 +5,11 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Performance](https://img.shields.io/badge/performance-1M%2B_RPS-orange.svg)]()
 
-**IMPORTANT: This is a skeleton/framework project under continuous development. Core features are functional but extensive testing and production hardening is ongoing.**
-
 ## What is UltraBalancer?
 
 UltraBalancer is a next-generation, high-performance load balancing framework designed for modern cloud-native applications. Built with a hybrid C/C++ architecture, it combines the raw performance of C with the flexibility and advanced features of modern C++17.
+
+**PROGRESS REPORTS:** **[ultrabalancer/progress](https://github.com/ultrabalancer/progress)**
 
 ## Why UltraBalancer?
 
